@@ -157,6 +157,6 @@ If you use the code, data or questionnaire, please cite the article once it is p
 
 ## Contact
 
-Corresponding author: Author A (`alamgir.cse14.just@gmail.com`)
+Corresponding author: Md. Alamgir Hossain (`alamgir.cse14.just@gmail.com`)
 
 Repository maintainer: [Alamgir-JUST](https://github.com/Alamgir-JUST)
